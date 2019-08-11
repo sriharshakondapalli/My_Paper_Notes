@@ -6,8 +6,9 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
-- [A quantum engineer’s guide to superconducting qubits](Theory/Quantum_Computing_Review.md)
-- [Towards artificial general intelligence with hybrid Tianjic chip architecture](ML/AGI_Tianjic_Chip.md)
+- US: [Neural Dust](Ultrasound/Neural_Dust.md)
+- Th: [A quantum engineer’s guide to superconducting qubits](Theory/Quantum_Computing_Review.md)
+- ML: [Towards artificial general intelligence with hybrid Tianjic chip architecture](ML/AGI_Tianjic_Chip.md)
 
 [1]:https://sriharshakondapalli.github.io/
 [2]:https://sites.google.com/view/sriharshakondapalli
