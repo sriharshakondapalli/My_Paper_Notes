@@ -1,8 +1,8 @@
 # Neural Dust
 
-1.[Neural Dust: An Ultrasonic, Low Power Solution for Chronic Brain-Machine Interfaces][2]
-2.[Physical Principles for Scalable Neural Recording][1]
-3.[Wireless Recording in the Peripheral Nervous System with Ultrasonic Neural Dust][3]
+1.[Neural Dust: An Ultrasonic, Low Power Solution for Chronic Brain-Machine Interfaces][2] <br />
+2.[Physical Principles for Scalable Neural Recording][1] <br />
+3.[Wireless Recording in the Peripheral Nervous System with Ultrasonic Neural Dust][3] <br />
 
 ## Key Points
 
