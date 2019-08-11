@@ -16,4 +16,4 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 ### Acknowledgements 
 
-Thank you Daniel Seita, your blog really inspired me start this blog on github.
+Thank you [Daniel Seita](https://github.com/DanielTakeshi), your way of posting articles on ML papers really inspired me start this blog on github.
