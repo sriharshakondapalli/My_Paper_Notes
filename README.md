@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- RF: [Nowi MPPT and optimal EH and comm design on IoT](RF/Nowi_MPPT.md)
 - ML: [Biological Learning outperform existing artificial intelligence algorithms](ML/Biological_Learning.md)
 - Th: [The Mathematics of Keeping a Musical Beat](Theory/Math_keeping_Musical_beat.md)
 - US: [Neural Dust](Ultrasound/Neural_Dust.md)
