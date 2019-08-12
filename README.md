@@ -1,7 +1,7 @@
 # My_Paper_Notes
 This will contain notes from Research Papers I have read, [Podcasts][4] I have listen and [Books][3] that were suggested to read.
 
-[My Github Page][1]
+[My Github Page][1] </br>
 [My Personal Webpage][2]
 
 
