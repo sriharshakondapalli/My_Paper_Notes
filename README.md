@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- ML: [NEAT genetic/evolutionary Algorithm and MarIO](ML/NEAT_MarIO.md)
 - US: [Thermal memory based PAT](Ultrasound/Thermal_memory_PAT.md)
 - ML: [Robots with Sensitve Skin](ML/sensitive_skin.md)
 - HW: [Temperature Sensor Survey](https://ei.ewi.tudelft.nl/docs/TSensor_survey.xls)
