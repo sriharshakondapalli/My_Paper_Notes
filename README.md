@@ -6,14 +6,15 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- ML: [Robots with Sensitve Skin](ML/sensitive_skin.md)
 - HW: [Temperature Sensor Survey](https://ei.ewi.tudelft.nl/docs/TSensor_survey.xls)
 - HW: [ADC Survey 1997-2019](https://web.stanford.edu/~murmann/adcsurvey.html)
 - RF: [Nowi MPPT and optimal EH and comm design on IoT](RF/Nowi_MPPT.md)
-- ML: [Biological Learning outperform existing artificial intelligence algorithms](ML/Biological_Learning.md)
+- ML: [Biological Learning outperform existing Artificial Intelligence Algorithms](ML/Biological_Learning.md)
 - Th: [The Mathematics of Keeping a Musical Beat](Theory/Math_keeping_Musical_beat.md)
 - US: [Neural Dust](Ultrasound/Neural_Dust.md)
-- Th: [A quantum engineer’s guide to superconducting qubits](Theory/Quantum_Computing_Review.md)
-- ML: [Towards artificial general intelligence with hybrid Tianjic chip architecture](ML/AGI_Tianjic_Chip.md)
+- Th: [A Quantum Engineer’s Guide to Superconducting Qubits](Theory/Quantum_Computing_Review.md)
+- ML: [Towards Artificial General Intelligence with Hybrid Tianjic chip Architecture](ML/AGI_Tianjic_Chip.md)
 
 [1]:https://sriharshakondapalli.github.io/
 [2]:https://sites.google.com/view/sriharshakondapalli
