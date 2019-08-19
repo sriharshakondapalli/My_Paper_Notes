@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- HW: [Chaos, Non Linear Circuits and Infinite Functions](Hardware/Non_Linear_Compute_Ditto.md)
 - OT: [MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism](https://nv-adlr.github.io/MegatronLM)
 - EH: [Transcutaneous ultrasound energy harvesting using capacitive triboelectric technology](Ultrasound/EH_Capacitive_Triboelectric.md)
 - ML: [NEAT genetic/evolutionary Algorithm and MarIO](ML/NEAT_MarIO.md)
