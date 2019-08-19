@@ -20,3 +20,11 @@ Case Study - Gave bugged phones for free to school kids and predicted their grad
 
 
 [1]: https://soundcloud.com/bell-labs/future-human-ep-17-alex-pentlands-nokia-bell-labs-shannon-luminary-lecture
+
+
+# Motivation Podcasts
+
+1. [Goalcast: Thank you Water-bottle Australia](https://www.youtube.com/watch?v=PEaJfX7S9kw)
+
+### Key Point
+Courage is not the absence of fear; but the understanding that there is more important than fear that exists. 
