@@ -6,6 +6,9 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- OT: [Waymo Open Dataset](https://waymo.com/open)
+- HW: [Neuromorphic Silicon Neuron Cicuits](Hardware/Neuromorhic_Survey.md)
+- OT: [Animating Fluids - Material Point Methods](https://www.youtube.com/watch?v=CSQPD3oyvD8)- [Github_old](https://github.com/sriharshakondapalli/taichi_mpm)
 - OT: [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - HW: [Chaos, Non Linear Circuits and Infinite Functions](Hardware/Non_Linear_Compute_Ditto.md)
 - OT: [MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism](https://nv-adlr.github.io/MegatronLM)
@@ -17,7 +20,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 - OT: [ADC Survey 1997-2019](https://web.stanford.edu/~murmann/adcsurvey.html)
 - RF: [Nowi MPPT and optimal EH and comm design on IoT](RF/Nowi_MPPT.md)
 - ML: [Biological Learning outperform existing Artificial Intelligence Algorithms](ML/Biological_Learning.md)
-- Th: [The Mathematics of Keeping a Musical Beat](Theory/Math_keeping_Musical_beat.md)
+- TH: [The Mathematics of Keeping a Musical Beat](Theory/Math_keeping_Musical_beat.md)
 - US: [Neural Dust](Ultrasound/Neural_Dust.md)
 - Th: [A Quantum Engineer’s Guide to Superconducting Qubits](Theory/Quantum_Computing_Review.md)
 - ML: [Towards Artificial General Intelligence with Hybrid Tianjic chip Architecture](ML/AGI_Tianjic_Chip.md)
