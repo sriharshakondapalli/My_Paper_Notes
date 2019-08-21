@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- OT: [A Mathematical Model Unlocks the Secrets of Vision](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)
 - HW: [Chaos, Non Linear Circuits and Infinite Functions](Hardware/Non_Linear_Compute_Ditto.md)
 - OT: [MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism](https://nv-adlr.github.io/MegatronLM)
 - EH: [Transcutaneous ultrasound energy harvesting using capacitive triboelectric technology](Ultrasound/EH_Capacitive_Triboelectric.md)
