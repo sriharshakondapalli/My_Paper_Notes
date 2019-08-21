@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- ML: [IITH-Survey of Deep Learning Models on GPUs](https://hgpu.org/?p=18689)
 - OT: [Waymo Open Dataset](https://waymo.com/open)
 - HW: [Neuromorphic Silicon Neuron Cicuits](Hardware/Neuromorphic_Survey.md)
 - OT: [Animating Fluids - Material Point Methods](https://www.youtube.com/watch?v=CSQPD3oyvD8)- [Github_old](https://github.com/sriharshakondapalli/taichi_mpm)
