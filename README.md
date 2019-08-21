@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
+- ML: [Nvidea-Conversational AI BERT and Megatron](https://www.youtube.com/watch?v=Wxi_fbQxCM0)
 - ML: [IITH-Survey of Deep Learning Models on GPUs](https://hgpu.org/?p=18689)
 - OT: [Waymo Open Dataset](https://waymo.com/open)
 - HW: [Neuromorphic Silicon Neuron Cicuits](Hardware/Neuromorphic_Survey.md)
