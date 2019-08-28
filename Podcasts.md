@@ -22,6 +22,13 @@ Case Study - Gave bugged phones for free to school kids and predicted their grad
 [1]: https://soundcloud.com/bell-labs/future-human-ep-17-alex-pentlands-nokia-bell-labs-shannon-luminary-lecture
 
 
+## [Vipul Patel from SAP](https://www.linkedin.com/in/vipulppatel/detail/recent-activity/shares/)
+
+### All about Data-science, AI and ML
+
+#### [Free video series](https://www.linkedin.com/pulse/expert-guide-machine-learning-free-video-series-16-hours-patel/)
+#### [All cheat sheets](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
+
 # Motivation Podcasts
 
 1. [Goalcast: Thank you Water-bottle Australia](https://www.youtube.com/watch?v=PEaJfX7S9kw)
