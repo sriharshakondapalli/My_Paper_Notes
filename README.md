@@ -6,7 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### August 2019
-- TH: [Exponential distribution](theory/exp_dist.md)
+- TH: [Exponential distribution](Theory/exp_dist.md)
 - TH: [Information erasure without an energy cost](Theory/erase_no_cost.md)
 - TH: [Information Theory](Theory/Info_Th.md)
 - RF: [Near-Zero](RF/Near_Zero.md)
