@@ -5,7 +5,8 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 [My Personal Webpage][2]
 
 
-### August 2019
+### Catalog
+- HW: [Spaceborne low-noise single-photon detection for satellite-based quantum communications](Hardware/SpaceQComm.md)
 - TH: [Experimental validation of Landauer Principle](Theory/snider_fundlimexp.md)
 - TH: [Exponential distribution](Theory/exp_dist.md)
 - TH: [Information erasure without an energy cost](Theory/erase_no_cost.md)
