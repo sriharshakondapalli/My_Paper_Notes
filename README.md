@@ -6,6 +6,7 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### Catalog
+- ML: [Noise-Boosted Bidirectional Backpropagation and Adversarial Learning](ML/BartKosko_BBPSR.md)
 - HW: [Spaceborne low-noise single-photon detection for satellite-based quantum communications](Hardware/SpaceQComm.md)
 - TH: [Experimental validation of Landauer Principle](Theory/snider_fundlimexp.md)
 - TH: [Exponential distribution](Theory/exp_dist.md)
