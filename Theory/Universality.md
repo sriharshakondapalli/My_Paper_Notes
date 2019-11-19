@@ -1,5 +1,5 @@
 # [Universality in nature](https://youtu.be/HrtJ3SRQF4E)
-## [Quanta mgazine post] (https://www.quantamagazine.org/universal-pattern-explains-why-materials-conduct-20190506/?fbclid=IwAR01oXP9Lf99qa3FOgVCasLLGYRF10SAm67EByVaeI_8kTppQA1g1vJac1g)
+## [Quanta mgazine post](https://www.quantamagazine.org/universal-pattern-explains-why-materials-conduct-20190506/?fbclid=IwAR01oXP9Lf99qa3FOgVCasLLGYRF10SAm67EByVaeI_8kTppQA1g1vJac1g)
 
 ### My Notes
 The distribution of bus arrival times typically take poisson distribution. But scheduled buses take a univerasal distribution that is similar to that of prime gaps.
