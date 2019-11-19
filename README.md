@@ -6,6 +6,8 @@ This will contain notes from Research Papers I have read, [Podcasts][4] I have l
 
 
 ### Catalog
+- TH: [Universality](Theory/Universality.md)
+- HW: [Robo Racecar Nvidea](Hardware/Robo_Racecar.md)
 - ML: [Noise-Boosted Bidirectional Backpropagation and Adversarial Learning](ML/BartKosko_BBPSR.md)
 - HW: [Spaceborne low-noise single-photon detection for satellite-based quantum communications](Hardware/SpaceQComm.md)
 - TH: [Experimental validation of Landauer Principle](Theory/snider_fundlimexp.md)
