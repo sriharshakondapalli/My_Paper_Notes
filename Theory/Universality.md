@@ -12,6 +12,6 @@ Thus exhibiting the univerality principle across the domains of math, physics, b
 This is a beautiful demonstration about the patterns you observe in prime numbers in a 2D plane.
 Nothing to do with distribution of prime numbers or gaps between prime numbers but takes the property of symmetry and periodicity and shows patterns in polar coordiantes.
 
-####[Knots and Primes](https://youtu.be/jvoYgNYKyk0)
+#### [Knots and Primes](https://youtu.be/jvoYgNYKyk0)
 
 This work seems to find similarities between the knots in topological geometry objects and the number of primes and indeed they conculde showing simular statistics.
